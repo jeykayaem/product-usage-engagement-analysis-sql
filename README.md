@@ -119,6 +119,3 @@ Output: Business insights and recommendations (business_insights.md)
 5. **Onboarding**
    - Shorter time to first action correlates with higher retention  
    - Delayed first action is a risk factor for churn
-
-## 👔 Role Fit
-Data Analyst | Product Analyst | BI Analyst
